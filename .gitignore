@@ -1,0 +1,14 @@
+*.ncb
+*.sdf
+*.suo
+*.user
+*.sln.cache
+*.obj
+*.log
+*.pdb
+*.opensdf
+*/bin/
+*/obj/
+/x64
+Debug
+Release
